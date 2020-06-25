@@ -19,3 +19,5 @@ git fetch
 git add *
 git push
 ```
+The tutorial I followed was the github command cheatsheet:
+[GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
